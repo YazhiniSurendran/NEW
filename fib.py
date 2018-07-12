@@ -1,4 +1,5 @@
-#copied or original with 2 features num of lines and language
+#copied or original with 2 features num of lines and language:
+#new line
 
 def java_code(lines):
     if lines > 5:
